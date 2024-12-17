@@ -1,10 +1,3 @@
-
-//Name: Bob Wang
-
-//Date of submission: December 14 2024
-
-//Course Code: ICS3U1-04, Mr. Fernandes 
-
 //Title: Pac man
 
 /*Description: 
